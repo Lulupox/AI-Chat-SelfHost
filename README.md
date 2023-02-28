@@ -19,9 +19,19 @@ git clone https://github.com/Lulupox/AI-Chat.git
 ```
 
 ## 🧑🏻‍💻 Usage
-Run the chat_interface.py file
-```py
+Run the main.py file
+```bash
 python main.py
+```
+
+⚠️Before launching the training of the model remember to put the textual data in the file⚠️
+```bash
+filtered_training_data.md
+```
+Send a request to the url to launch the training of the model 
+
+```py
+http://127.0.0.1:5000/train_model
 ```
 
 Start chatting with the AI!
