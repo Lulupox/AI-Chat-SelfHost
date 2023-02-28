@@ -1,6 +1,6 @@
 # AI Chat
 
-A simple AI with python plug to an interface with node js server to chat With ai you can train with your own data for free !
+A simple AI with python plug to an interface to chat With ai you can train with your own data for free !
 
 
 
@@ -10,13 +10,6 @@ A simple AI with python plug to an interface with node js server to chat With ai
 
 
 ## Installation
-
-Install Web App Interface
-
-```bash
-  cd 'Web App'
-  npm i
-```
 
 Install Python AI API
 
