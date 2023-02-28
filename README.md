@@ -33,8 +33,6 @@ This project was developed by:
 
 ## ❤️ Support  
 Please feel free to contribute to this project by submitting pull requests or issues.
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/saurra3h).
         
 ## ➤ License
 This project is licensed under the MIT license.
