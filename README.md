@@ -15,7 +15,7 @@ git clone https://github.com/Lulupox/LuLuChat.git
 ```
 
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 🧑🏻‍💻 Usage
