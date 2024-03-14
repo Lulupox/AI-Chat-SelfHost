@@ -11,10 +11,10 @@ This is a simple AI chat interface that uses Python. You can train it with your 
 ## 🛠️ Install Dependencies    
 Clone the repository
 ```bash
-git clone https://github.com/Lulupox/AI-Chat.git
+git clone https://github.com/Lulupox/LuLuChat.git
 ```
+
 ```bash
-  cd AI-Chat/API
   pip install -r requirements.txt
 ```
 
